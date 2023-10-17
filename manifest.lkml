@@ -1,4 +1,4 @@
-project_name: "mtrmisaextensionframework"
+project_name: "extensiontest"
 
 application: extensiontest {
   label: "extensiontest"
